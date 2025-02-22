@@ -1,4 +1,4 @@
-# firstRECON - Web Application for Security Analysis
+# firstRECON - Web Application for Reconnaissance
 
 ## Overview  
 **firstRECON** is an essential web application designed for individuals interested in **network defense, security posture assessment**, or **educational purposes**. This application integrates **Ping, DNS Lookup**, and **advanced port scanning** features, allowing users to identify potential vulnerabilities and possible exploits of a targeted host.
