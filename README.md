@@ -67,24 +67,3 @@ Since **firstRECON** is a **web-based** application, no specialized hardware is 
 ✅ **Improve Security Features** – Implement **vulnerability analysis**  
 ✅ **Optimize UI & UX** – Make navigation and interaction smoother  
 ✅ **Deploy on Cloud** – Host the application for easy access  
-
----
-
-## 🤝 Contributions  
-Contributions are always welcome! If you'd like to improve this project:
-1️⃣ **Fork the repository**  
-2️⃣ **Create a new branch**  
-3️⃣ **Make your improvements**  
-4️⃣ **Submit a Pull Request**  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
-
-## 🚀 Final Thoughts  
-**firstRECON** is a **powerful reconnaissance tool 🔎** designed for security professionals and ethical hackers. It streamlines **network scanning, DNS lookups, and vulnerability assessments**, making it a valuable asset for cybersecurity tasks.  
-
-💡 **Ready to get started?** Fork the repo and help make this project even better! 🚀  
