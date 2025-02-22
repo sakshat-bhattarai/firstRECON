@@ -9,9 +9,9 @@ Proper web application design was performed from scratch to ensure functionality
 
 ---
 
-## 📌 2.6 Requirement Analysis  
+## 📌 2 Requirement Analysis  
 
-### 📋 2.6.1 Overall Requirement  
+### 📋 2.1 Overall Requirement  
 Since **firstRECON** is a **web-based** application, no specialized hardware is required. It is compatible with all modern web browsers.  
 ### ✅ Minimum Requirements:
 - 📱 **Smartphone or Laptop**  
@@ -20,20 +20,20 @@ Since **firstRECON** is a **web-based** application, no specialized hardware is 
 
 ---
 
-### 📌 2.6.2 Generalized List of Requirements  
+### 📌 2.2 Generalized List of Requirements  
 
-#### 🔧 2.6.2.1 Functional Requirements  
+#### 🔧 2.2.1 Functional Requirements  
 1️⃣ Users can **log in** to the web application.  
 2️⃣ Users can **register** a new account.  
 3️⃣ Users can **view application features** without logging in.  
 4️⃣ Users can **understand the program’s function** through descriptions provided on the homepage.  
 
-#### 🛠️ 2.6.2.2 Non-functional Requirements  
+#### 🛠️ 2.2.2 Non-functional Requirements  
 1️⃣ Users can **retrieve detailed** information about **Port Scan** results.  
 2️⃣ Users can **access DNS record details** of a targeted host.  
 3️⃣ Users can **check the ping status** of any targeted host.  
 
-#### 🎨 2.6.2.3 Usability Requirements  
+#### 🎨 2.2.3 Usability Requirements  
 1️⃣ Users can **navigate different pages** by clicking the program logo.  
 2️⃣ Users can **log out** by clicking their displayed name.  
 3️⃣ Users can **select the type of DNS record** while performing a **DNS Lookup**.  
@@ -44,7 +44,7 @@ Since **firstRECON** is a **web-based** application, no specialized hardware is 
 
 ---
 
-## 🛠️ 2.6.3 Platform & Tools Used  
+## 🛠️ 2.3 Platform & Tools Used  
 
 | 🔧 Tool | 📌 Description |
 |---------|--------------|
