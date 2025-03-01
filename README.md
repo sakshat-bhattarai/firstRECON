@@ -62,8 +62,7 @@ Since **firstRECON** is a **web-based** application, no specialized hardware is 
 
 
 ### For the detail overview of development Please visit https://github.com/sakshat-bhattarai/firstRECON/tree/main/%5BfirstRECON%5D%20Development
-### Documentation of project Project Documentation.pdf
-
+### Documentation of project Please visit https://github.com/sakshat-bhattarai/firstRECON/tree/main/%5BfirstRECON%5D%20Development
 
 
 ### 🔥 **Next Steps & Future Enhancements**
