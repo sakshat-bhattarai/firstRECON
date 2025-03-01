@@ -60,7 +60,11 @@ Since **firstRECON** is a **web-based** application, no specialized hardware is 
 | **📐 Diagram Tool** | draw.io |
 | **🛡️ Other Security Tools** | Nmap, Windows Command Line |
 
----
+
+### For the detail overview of development Please visit https://github.com/sakshat-bhattarai/firstRECON/tree/main/%5BfirstRECON%5D%20Development
+### Documentation of project https://github.com/sakshat-bhattarai/firstRECON/blob/main/Project%20Documentation.pdf
+
+
 
 ### 🔥 **Next Steps & Future Enhancements**
 ✅ **Enhance Port Scanning Capabilities** – Add advanced scanning methods  
