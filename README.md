@@ -61,7 +61,9 @@ Since **firstRECON** is a **web-based** application, no specialized hardware is 
 | **🛡️ Other Security Tools** | Nmap, Windows Command Line |
 
 
-### For the detail overview of development Please visit [firstRECON] Development https://github.com/sakshat-bhattarai/firstRECON/tree/main/%5BfirstRECON%5D%20Development
+### For the detail overview of development Please visit firstRECON/[firstRECON] Development https://github.com/sakshat bhattarai/firstRECON/tree/main/%5BfirstRECON%5D%20Development
+
+
 ### Documentation of project Please visit https://github.com/sakshat-bhattarai/firstRECON/tree/main/%5BfirstRECON%5D%20Development
 
 
